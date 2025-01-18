@@ -1,4 +1,8 @@
-# Hi, 👋 I am Serhat!
+
+### 👋 Welcome, Visitor!
+![Welcome Message](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&background=000000&center=true&vCenter=true&width=440&lines=Hello+there!+I'm+Serhat;Data+Scientist+%7C+Machine+Learning+Enthusiast;Always+learning+and+exploring!)
+
+---
 
 Welcome to my GitHub profile!  
 I am a **Data Scientist** with a passion for turning data into actionable insights. My expertise lies in leveraging data to solve complex problems and uncover hidden patterns that drive impactful decisions. I specialize in building data-driven solutions in the fields of **finance** and **healthcare**, where I focus on:
@@ -36,8 +40,6 @@ With a strong foundation in data analysis, machine learning, and visualization, 
 
 [![Serhat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rserhat01&theme=radical)](https://github.com/Rserhat01)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rserhat01&layout=compact&theme=radical)](https://github.com/Rserhat01)
-
 ---
 
 ### 📫 How to Reach Me
@@ -55,11 +57,6 @@ With a strong foundation in data analysis, machine learning, and visualization, 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
 </p>
-
----
-
-### 👋 Welcome, Visitor!
-![Welcome Message](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&background=000000&center=true&vCenter=true&width=440&lines=Hello+there!+I'm+Serhat;Data+Scientist+%7C+Machine+Learning+Enthusiast;Always+learning+and+exploring!)
 
 ---
 
