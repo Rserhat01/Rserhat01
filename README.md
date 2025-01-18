@@ -5,23 +5,23 @@ I am a **Data Scientist** with a passion for turning data into actionable insigh
 
 ---
 
-### 🧠 Skills & Expertise
-- **Programming:** Python, SQL
-- **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning:** scikit-learn, TensorFlow, Keras
-- **Deep Learning & NLP:** Transformers, NLTK, spaCy
-- **Data Visualization:** Power BI, Tableau
-- **Text Mining/Web Scraping:** Selenium, Scrapy, Playwright
-- **Databases:** MySQL, PostgreSQL
-- **Other Tools:** Docker, Git, Jupyter Notebook, Google Colab
-
----
-
 ### 🌟 Current Focus
 - **Finance:** Developing machine learning models for stock price forecasting and risk analysis.
 - **Healthcare:** Creating predictive models for disease diagnosis, including cancer detection.
 - **Exploratory Data Analysis (EDA):** Finding patterns and insights in complex datasets.
 - **Deep Learning:** Advancing skills in NLP and image classification.
+
+---
+
+### 🧠 Skills & Expertise
+- **Programming:** Python, R
+- **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** scikit-learn, TensorFlow, Keras
+- **Deep Learning & NLP:** Transformers, NLTK, spaCy
+- **Data Visualization:** Power BI, Tableau
+- **Text Mining/Web Scraping:** Selenium, Scrapy, Playwright
+- **Databases:** MySQL, PostgreSQL, SQL
+- **Other Tools:** Docker, Git, Jupyter Notebook, Google Colab
 
 ---
 
