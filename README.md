@@ -1,7 +1,7 @@
-#  Hi,👋 I am Serhat!
+# Hi, 👋 I am Serhat!
 
 Welcome to my GitHub profile!  
-I am a **Data Scientist** with a passion for turning data into actionable insights. 🚀  
+I am a **Data Scientist** with a passion for turning data into actionable insights. I specialize in building data-driven solutions in the fields of **finance** and **healthcare**. 🚀  
 
 ---
 
@@ -9,6 +9,7 @@ I am a **Data Scientist** with a passion for turning data into actionable insigh
 - **Programming:** Python, SQL
 - **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning:** scikit-learn, TensorFlow, Keras
+- **Deep Learning & NLP:** Transformers, NLTK, spaCy
 - **Data Visualization:** Power BI, Tableau
 - **Text Mining/Web Scraping:** Selenium, Scrapy, Playwright
 - **Databases:** MySQL, PostgreSQL
@@ -17,9 +18,10 @@ I am a **Data Scientist** with a passion for turning data into actionable insigh
 ---
 
 ### 🌟 Current Focus
-- Building predictive models using machine learning.
-- Exploratory Data Analysis (EDA) on financial datasets.
-- Enhancing skills in deep learning and NLP.
+- **Finance:** Developing machine learning models for stock price forecasting and risk analysis.
+- **Healthcare:** Creating predictive models for disease diagnosis, including cancer detection.
+- **Exploratory Data Analysis (EDA):** Finding patterns and insights in complex datasets.
+- **Deep Learning:** Advancing skills in NLP and image classification.
 
 ---
 
@@ -49,4 +51,4 @@ I am a **Data Scientist** with a passion for turning data into actionable insigh
 
 ### 📊 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=serhat123&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Rserhat01&color=brightgreen)
